@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<group id="1">
+	<group_name>Introduction to Physics</group_name>
+	<students>
+		<user id="1">
+			<first>Albert</first>
+			<last>Einstein</last>
+		</user>
+		<user id="2">
+			<first>Neils</first>
+			<last>Bohr</last>
+		</user>
+		<user id="3">
+			<first>Isaac</first>
+			<last>Newton</last>
+		</user>
+		<user id="4">
+			<first>Michael</first>
+			<last>Jordan</last>
+		</user>
+	</students>
+</group>

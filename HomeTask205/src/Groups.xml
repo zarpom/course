@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+	<group>
+		<group_name>TM-83B</group_name>
+			<student id="1">
+				<first_name>Albert</first_name>
+				<last_name>Einstein</last_name>
+			</student>
+			<student id="2">
+				<first_name>Neils</first_name>
+				<last_name>Bohr</last_name>
+			</student>
+			<student id="3">
+				<first_name>Isaac</first_name>
+				<last_name>Newton</last_name>
+			</student>
+			<student id="4">
+				<first_name>Michael</first_name>
+				<last_name>Jordan</last_name>
+			</student> 
+	</group> 
